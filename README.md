@@ -168,9 +168,18 @@ never edited, only superseded.
 
 ## Screenshots
 
-<!-- TODO: add 3-4 screenshots. Suggested: personalised feed, an AI tool mid-stream,
-     the Document Vault, the application tracker. Drop the files in /screenshots and
-     reference them here. A recruiter scrolls before they read. -->
+<table>
+<tr>
+<td width="33%"><img src="screenshots/01-landing.png" alt="ApplyWorth landing page"></td>
+<td width="33%"><img src="screenshots/02-readiness-score.png" alt="Opportunity detail with Application Readiness score"></td>
+<td width="33%"><img src="screenshots/03-profile.png" alt="Structured user profile"></td>
+</tr>
+<tr>
+<td align="center"><sub><b>Landing</b></sub></td>
+<td align="center"><sub><b>Readiness score.</b> The 0-100 score decomposed into eligibility, materials, profile completeness and commitment, with the highest-leverage next actions ranked underneath.</sub></td>
+<td align="center"><sub><b>Structured profile.</b> Experience level, goals, target countries and skills. This is the half of every AI prompt that is not the opportunity.</sub></td>
+</tr>
+</table>
 
 ---
 
